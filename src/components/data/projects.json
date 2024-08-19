@@ -1,0 +1,92 @@
+[
+  {
+    "key": 1,
+    "language":"js",
+    "title": "Food Menu",
+    "imageSrc": "projects/menu.png",
+    "description": "This food menu project allows users to filter items by categories. Built with HTML, CSS, and JavaScript.",
+    "demo": " https://riteshgupta19.github.io/Food-Menu-JavaScript/",
+    "source": "https://github.com/RiteshGupta19/Food-Menu-JavaScript.git"
+  },
+  {
+    "key": 2,
+    "language":"html",
+    "title": "Youtube Clone",
+    "imageSrc": "projects/youtube.png",
+    "description": "A simple YouTube clone using HTML and CSS, replicating the basic layout and design to provide a clean, responsive UI.",
+    "demo": "https://riteshgupta19.github.io/Youtube-Clone/",
+    "source": "https://github.com/RiteshGupta19/Youtube-Clone.git"
+  },
+  {
+    "key": 3,
+    "language":"react",
+    "title": "TODO List",
+    "imageSrc": "projects/todo.png",
+    "description": "Created a React To-Do List with add, edit, and delete functionality for easy task management.",
+    "demo": "https://riteshgupta19.github.io/To-do-list-using-react/",
+    "source": "https://github.com/RiteshGupta19/To-do-list-using-react.git"
+  },
+  {
+    "key": 4,
+    "language":"js",
+    "title": "Weather Application",
+    "imageSrc": "projects/Weather.png",
+    "description": "A simple weather application that fetches and displays real-time weather data using the API in JS.",
+    "demo": "https://riteshgupta19.github.io/Weather-Application-Using-JS/",
+    "source": "https://github.com/RiteshGupta19/Weather-Application-Using-JS.git"
+  },
+  {
+    "key": 5,
+    "language":"boot",
+    "title": "Webpage Template",
+    "imageSrc": "projects/book-temp.png",
+    "description": "A responsive book landing page built with HTML ,CSS and Bootstrap 5 Framework. ",
+    "demo": " https://riteshgupta19.github.io/Modern-web-Template-3-boots/",
+    "source": "https://github.com/RiteshGupta19/Modern-web-Template-3-boots.git"
+  },
+  {
+    "key": 6,
+    "language":"boot",
+    "title": "Webpage Template-2",
+    "imageSrc": "projects/temp-2.png",
+    "description": "A responsive business website template created with HTML, CSS, and Bootstrap 5.  ",
+    "demo": " https://riteshgupta19.github.io/Responsive-Business-Website-Template-boots/",
+    "source": "https://github.com/RiteshGupta19/Responsive-Business-Website-Template-boots.git"
+  },
+  {
+    "key": 7,
+    "language":"js",
+    "title": "Dark/Light Mode",
+    "imageSrc": "projects/dark-mode.png",
+    "description": "This project implements a simple dark/light mode toggle feature using JavaScript. ",
+    "demo": "  https://riteshgupta19.github.io/Dark-Light-Mode-Toggle-using-JavaScript/",
+    "source": "https://github.com/RiteshGupta19/Dark-Light-Mode-Toggle-using-JavaScript.git"
+  },
+  {
+    "key": 8,
+    "language":"js",
+    "title": "Password Generator",
+    "imageSrc": "projects/password.png",
+    "description": "A React password generator for secure, customizable passwords with options for length and character types.",
+    "demo": " https://riteshgupta19.github.io/Password-Generator/",
+    "source": "https://github.com/RiteshGupta19/Password-Generator.git"
+  },
+  {
+    "key": 9,
+    "language":"react",
+    "title": "Clone Website UI",
+    "imageSrc": "projects/cognisoft.png",
+    "description": "The Cognisoft Clone UI is a React-based project showcasing responsive, interactive front-end design skills.",
+    "demo": "cognisoft-clone-ui-using-react.vercel.app",
+    "source": "https://github.com/RiteshGupta19/Cognisoft-Clone-UI-using-React.git"
+  },
+  {
+    "key": 10,
+    "language":"mern",
+    "title": "School Website",
+    "imageSrc": "projects/susanskar.png",
+    "description": "A dynamic school website built with the MERN stack and Tailwind CSS,",
+    
+    "source": "https://github.com/RiteshGupta19/School-Website-MERN.git"
+  }
+]

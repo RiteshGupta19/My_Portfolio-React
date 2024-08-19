@@ -1,0 +1,17 @@
+[
+  
+  {
+    "id": 1,
+    "role": "MERN Stack Developer Intern",
+    "organisation": "ICEICO Technologies Pvt Ltd",
+    "startDate": "Jan, 2024 -",
+    "endDate": "Jun, 2024",
+    "location": " Nandanvan, Nagpur.",
+    "experiences": [
+      "Gained practical experience in web development focusing on the MERN stack.",
+      "Contributed to live projects, enhancing skills in MongoDB, Express.js, React, and Node.js.",
+      "Participated in training sessions, building a strong foundation in MERN stack development."
+    ],
+    "imageSrc": "company/iceico.jpg"
+  }
+]
