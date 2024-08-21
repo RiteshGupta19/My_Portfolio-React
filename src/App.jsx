@@ -7,6 +7,7 @@ import Projects from "./components/Projects";
 import Contact from './components/Contact'
 import Aos from "aos";
 import "aos/dist/aos.css"
+import Education from "./components/Education";
 
 
 const App = () => {
@@ -21,6 +22,7 @@ const App = () => {
       <div className="container">
         <Home />
         <Experience />
+        <Education/>
         <Skills />
         <Projects />
         <Contact />

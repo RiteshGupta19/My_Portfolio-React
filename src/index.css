@@ -48,14 +48,14 @@ a {
 /* Home Section */
 
 .home {
-  height: 90vh;
+  height: 100vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
   
 }
 .homee{
-  padding-top: 150px;
+  padding-top: 50px;
 }
 
 .home .left {
@@ -200,6 +200,14 @@ a {
   
 }
 
+.edu-items{
+  background-color:rgb(40, 47, 97);
+  border: 1px solid yellow;
+  box-shadow: 5px 5px 10px 10px rgba(101, 175, 10, 0.5);
+}
+.edu-items:hover{
+   box-shadow: 5px 5px 30px 10px rgba(43, 251, 255, 0.812);
+}
 /* Skills */
 
 .skills {

@@ -88,5 +88,15 @@
     "description": "A dynamic school website built with the MERN stack and Tailwind CSS,",
     
     "source": "https://github.com/RiteshGupta19/School-Website-MERN.git"
+  },
+  {
+    "key": 9,
+    "language":"react",
+    "title": "My Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A personal portfolio showcasing my projects and skills, built with Vite for fast development and optimized performance.",
+    "demo": "my-portfolio-mu-liard-78.vercel.app",
+    "source": "https://github.com/RiteshGupta19/My-Portfolio.git"
   }
+
 ]

@@ -27,10 +27,10 @@ const Home = () => {
   }, []);
 
   return (
-    <div className="container my-5"  id="home">
-      <div className="row homee">
+    <div className="container my-5 homee"  id="home">
+      <div className="row ">
         {/* Left Side */}
-        <div className="col-md-6 d-flex flex-column justify-content-center ">
+        <div className="col-md-6 d-flex flex-column justify-content-center">
           <div className="d-flex align-items-center mb-3">
             <div className=" text-info font-weight-bold ml-2">
               <h2 ref={typedRef} className=" fs-1"></h2>
