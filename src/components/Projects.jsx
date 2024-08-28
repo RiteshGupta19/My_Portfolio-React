@@ -1,5 +1,6 @@
 import React from "react";
 import project from "./data/projects.json";
+import './project.css/'
 
 const Projects = () => {
   return (
@@ -7,7 +8,7 @@ const Projects = () => {
       <div className="container projects my-3" id="projects">
         <h1 style={{paddingTop:"100px"}}>PROJECTS</h1>
        
-        <h1 style={{ paddingTop: "100px", textDecoration: "underline", textAlign: "center" }}>
+        <h1 className="font" style={{ paddingTop: "100px", textDecoration: "underline", textAlign: "center" }}>
           HTML/CSS/BOOTSTRAP
         </h1>
         <div className="row d-flex justify-content-center align-content-center">
@@ -15,7 +16,7 @@ const Projects = () => {
             (data.language === "html" || data.language === "boot")&& (
               <div
                 key={data.id}
-                className="pro my-4 col-sm-6 col-md-4 col-lg-3 mx-4"
+                className="pro my-4 col-sm-6 col-md-4 col-lg-3 mx-md-4"
               >
                 <div
                   className="card bg-dark text-light"
@@ -41,7 +42,7 @@ const Projects = () => {
                     />
                   </div>
                   <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
+                    <h4 className="card-title">{data.title}</h4>
                     <p className="card-text">{data.description}</p>
                     <a href={data.demo} className="btn btn-primary mx-3">
                       Output
@@ -90,7 +91,7 @@ const Projects = () => {
                     />
                   </div>
                   <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
+                    <h4 className="card-title">{data.title}</h4>
                     <p className="card-text">{data.description}</p>
                     <a href={data.demo} className="btn btn-primary mx-3">
                       Output
@@ -139,7 +140,7 @@ const Projects = () => {
                     />
                   </div>
                   <div className="card-body text-center">
-                    <h5 className="card-title">{data.title}</h5>
+                    <h4 className="card-title">{data.title}</h4>
                     <p className="card-text">{data.description}</p>
                     {/* <a href={data.demo} className="btn btn-primary mx-3">
                       Output

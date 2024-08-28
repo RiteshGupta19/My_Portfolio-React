@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { FaInstagram, FaGithubSquare, FaPhoneAlt } from "react-icons/fa";
 import { CiLinkedin } from "react-icons/ci";
 import { SiGmail } from "react-icons/si";
+import './contact.css/'
 
 const Contact = () => {
   const [showPhoneNumber, setShowPhoneNumber] = useState(false);

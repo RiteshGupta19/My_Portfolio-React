@@ -1,4 +1,5 @@
 import React from "react";
+import './navbar.css/'
 
 const Navbar = () => {
   return (
@@ -7,7 +8,7 @@ const Navbar = () => {
       data-aos="fade-down"
       data-aos-duration="1000" 
       >
-        <div className="left logo">Portfolio</div>
+        <div className="left logo ">Portfolio</div>
         <div className="right">
           <a href="#home" className="nav_items">
             Home

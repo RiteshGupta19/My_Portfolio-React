@@ -1,10 +1,11 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/Ritesh_Gupta_Resume.pdf";
+import pdf from "../pdf/Ritesh_Gupta_Resume...pdf";
 import hero from "./data/hero.json";
 import Typed from "typed.js";
-import { FaInstagram, FaGithubSquare,FaLinkedin, FaTelegramPlane, FaReact, FaNodeJs } from 'react-icons/fa';
-// import { IoLogoYoutube } from 'react-icons/io';
+import { FaInstagram, FaGithubSquare,FaLinkedin, FaReact, FaNodeJs } from 'react-icons/fa';
+
 import { SiMongodb, SiExpress ,SiGmail} from 'react-icons/si';
+import './home.css/'
 
 const Home = () => {
   const typedRef = useRef(null);
@@ -36,7 +37,7 @@ const Home = () => {
               <h2 ref={typedRef} className=" fs-1"></h2>
             </div>
           </div>
-          <p className="text-white fs-5">
+          <p className="text-white fs-5 ">
           Welcome to my portfolio! I'm Ritesh Gupta, a MERN stack developer. Here, you can explore my skills, view the projects I've worked on, and learn about my internship experience. Check out the contact section to connect with me for any opportunities or collaborations.
           </p>
           <div className="d-flex flex-column flex-md-row justify-content-between mt-4">
@@ -45,7 +46,7 @@ const Home = () => {
     <div className="social-icons d-flex justify-content-center">
       <div className="icon-container">
         <a href="https://www.instagram.com/ritesh_gupta.19/" target="_blank" rel="noopener noreferrer" className="icon-link">
-          <FaInstagram className="icon facebook-icon" />
+          <FaInstagram className="icon facebook-icon "  />
         </a>
       </div>
       <div className="icon-container">

@@ -1,5 +1,6 @@
 import React from "react";
 import experience from "./data/experience.json";
+import './experience.css/'
 
 const Experience = () => {
   return (
@@ -17,7 +18,7 @@ const Experience = () => {
                 
               >
                 <div className="left">
-                  <img style={{height:"150px", marginRight:"20px"}} src={`/assets/${data.imageSrc}`} alt="" />
+                  <img style={{}} src={`/assets/${data.imageSrc}`} alt="" />
                 </div>
                 <div className="right">
                   <h2>{data.organisation}</h2>

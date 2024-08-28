@@ -1,5 +1,6 @@
 import React from "react";
 import education from "./data/education.json";
+import './education.css/'
 
 const Education = () => {
   return (
@@ -10,18 +11,14 @@ const Education = () => {
           return (
             <div
               key={data.id}
-              className="edu-items d-flex align-items-center justify-content-center my-5"
-              style={{
-                border: "2px solid #ddd",
-                borderRadius: "10px",
-                padding: "20px",
-              }}
+              className="edu-items d-md-flex align-items-center justify-content-center my-5"
+              
               data-aos="fade-up"
               data-aos-duration="1000"
             >
               <div className="left" style={{ margin: "auto" }}>
                 <img
-                  style={{ height: "150px", borderRadius: "10px" }}
+                  style={{  }}
                   src={`/assets/${data.imageSrc}`}
                   alt={`${data.degree} logo`}
                 />

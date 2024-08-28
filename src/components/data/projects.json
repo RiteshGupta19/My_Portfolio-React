@@ -13,12 +13,21 @@
     "language":"html",
     "title": "Youtube Clone",
     "imageSrc": "projects/youtube.png",
-    "description": "A simple YouTube clone using HTML and CSS, replicating the basic layout and design to provide a clean, responsive UI.",
+    "description": "My First Project, YouTube clone using HTML and CSS, replicating the basic layout and design.",
     "demo": "https://riteshgupta19.github.io/Youtube-Clone/",
     "source": "https://github.com/RiteshGupta19/Youtube-Clone.git"
   },
   {
     "key": 3,
+    "language":"boot",
+    "title": "Social Media profile UI",
+    "imageSrc": "projects/profile.png",
+    "description": "A responsive social media Profile UI using HTML, CSS, and Bootstrap, including a navigation bar, profile card, activity feed, and widgets.",
+    "demo": "https://social-media-ui-with-bootstrap.vercel.app/",
+    "source": "https://github.com/RiteshGupta19/Social-Media-UI-with-Bootstrap.git"
+  },
+  {
+    "key": 4,
     "language":"react",
     "title": "TODO List",
     "imageSrc": "projects/todo.png",
@@ -27,7 +36,7 @@
     "source": "https://github.com/RiteshGupta19/To-do-list-using-react.git"
   },
   {
-    "key": 4,
+    "key": 5,
     "language":"js",
     "title": "Weather Application",
     "imageSrc": "projects/Weather.png",
@@ -36,7 +45,7 @@
     "source": "https://github.com/RiteshGupta19/Weather-Application-Using-JS.git"
   },
   {
-    "key": 5,
+    "key": 6,
     "language":"boot",
     "title": "Webpage Template",
     "imageSrc": "projects/book-temp.png",
@@ -45,7 +54,7 @@
     "source": "https://github.com/RiteshGupta19/Modern-web-Template-3-boots.git"
   },
   {
-    "key": 6,
+    "key": 7,
     "language":"boot",
     "title": "Webpage Template-2",
     "imageSrc": "projects/temp-2.png",
@@ -54,7 +63,7 @@
     "source": "https://github.com/RiteshGupta19/Responsive-Business-Website-Template-boots.git"
   },
   {
-    "key": 7,
+    "key": 8,
     "language":"js",
     "title": "Dark/Light Mode",
     "imageSrc": "projects/dark-mode.png",
@@ -63,7 +72,7 @@
     "source": "https://github.com/RiteshGupta19/Dark-Light-Mode-Toggle-using-JavaScript.git"
   },
   {
-    "key": 8,
+    "key": 9,
     "language":"js",
     "title": "Password Generator",
     "imageSrc": "projects/password.png",
@@ -72,7 +81,7 @@
     "source": "https://github.com/RiteshGupta19/Password-Generator.git"
   },
   {
-    "key": 9,
+    "key": 10,
     "language":"react",
     "title": "Clone Website UI",
     "imageSrc": "projects/cognisoft.png",
@@ -81,7 +90,7 @@
     "source": "https://github.com/RiteshGupta19/Cognisoft-Clone-UI-using-React.git"
   },
   {
-    "key": 10,
+    "key": 11,
     "language":"mern",
     "title": "School Website",
     "imageSrc": "projects/susanskar.png",
@@ -90,13 +99,23 @@
     "source": "https://github.com/RiteshGupta19/School-Website-MERN.git"
   },
   {
-    "key": 9,
+    "key": 12,
     "language":"react",
     "title": "My Portfolio",
     "imageSrc": "projects/portfolio.png",
     "description": "A personal portfolio showcasing my projects and skills, built with Vite for fast development and optimized performance.",
     "demo": "my-portfolio-mu-liard-78.vercel.app",
     "source": "https://github.com/RiteshGupta19/My-Portfolio.git"
+  },
+  
+  {
+    "key": 13,
+    "language":"boot",
+    "title": "Webpage Template-3",
+    "imageSrc": "projects/webpage-3.png",
+    "description": "A responsive webpage UI created using HTML, CSS, and Bootstrap, similar to a portfolio, featuring sections for About, Contact, and a Footer. ",
+    "demo": "https://modern-freelancer-portfolio-bootstrap-vf2t.vercel.app/",
+    "source": "https://github.com/RiteshGupta19/Modern-Freelancer-portfolio-bootstrap.git"
   }
 
 ]
