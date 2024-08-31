@@ -86,7 +86,7 @@
     "title": "Clone Website UI",
     "imageSrc": "projects/cognisoft.png",
     "description": "The Cognisoft Clone UI is a React-based project showcasing responsive, interactive front-end design skills.",
-    "demo": "cognisoft-clone-ui-using-react.vercel.app",
+    "demo": "https://cognisoft-clone-ui-using-react.vercel.app/",
     "source": "https://github.com/RiteshGupta19/Cognisoft-Clone-UI-using-React.git"
   },
   {
