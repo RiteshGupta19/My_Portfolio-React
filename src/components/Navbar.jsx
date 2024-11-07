@@ -1,7 +1,9 @@
-import React from "react";
+import React, { useState } from "react";
 import './navbar.css/'
-
+import { FiAlignJustify } from 'react-icons/fi';
+import { FiX } from 'react-icons/fi';
 const Navbar = () => {
+  const [isOpen,setIsOpen]=useState(false)
   return (
     <>
      <div
