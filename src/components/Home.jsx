@@ -15,7 +15,7 @@ const Home = () => {
       strings: [
         `Welcome to my profile...<br>
         My Name is <span style="color: yellow;">Ritesh Gupta...</span><br>
-        I'm a <span style="color: yellow;">MERN stack developer....</span>`
+        I'm a <span style="color: yellow;">MERN Stack Developer....</span>`
       ],
       typeSpeed: 20,
     };
